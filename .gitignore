@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Personal data — DO NOT COMMIT
+history.json          # your private recording archive
+dashboard_ua.html     # generated — contains your data
+dashboard_en.html     # generated — contains your data
+dashboard.html        # legacy
+sync_log.txt
+
+# Analysis outputs (optional — generated files)
+*.png
+*.csv
+cache_meta_files/
+recordings_cache.pkl
+output/
+data/
+
+# macOS
+.DS_Store
+._*
+
+# Windows
+Thumbs.db
