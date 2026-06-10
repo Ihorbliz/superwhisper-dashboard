@@ -1,4 +1,5 @@
 # SuperWhisper Dashboard
+<img width="2122" height="1202" alt="image" src="https://github.com/user-attachments/assets/56c6a9b4-2e35-40f3-beb6-e158ffb1cf0a" />
 
 An interactive analytics dashboard for [SuperWhisper](https://superwhisper.com) — the AI voice dictation app for Mac.
 
